@@ -156,4 +156,7 @@
       <Filter>TODO</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".clang-format" />
+  </ItemGroup>
 </Project>
